@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="Ques1and2,Ques3,UT-IT task,UT-IT task.Ques1and2,UT-IT task.Ques3,UT_IT,Ut" />
-  </component>
-</project>
